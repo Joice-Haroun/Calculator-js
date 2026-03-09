@@ -1,0 +1,8 @@
+function calculator(num1, num2) {
+    const sum = num1 + num2;
+    if (sum > 10) {
+        return "yes";
+    } else {
+        return "no";
+    }
+}
