@@ -6,3 +6,5 @@ function calculator(num1, num2) {
         return "no";
     }
 }
+console.log(calculator(4, 8)); // yes
+console.log(calculator(3, 5)); // no
